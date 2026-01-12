@@ -12,7 +12,9 @@
 <h2 align="center">🔍 About Me</h2>
 
 - 🌱 **BE - EnTC Graduate** from **SPPU Pune**    
-- 🧠 Focused on **Data Analytics, Data Science, Artificial Intelligence, Machine Learning and Cyber Security**  
-- 🛠️ Skilled in **C++, Java, Python, SQL, PowerBI, Advance Excel, Hardware & Networking**  
+- 🧠 Focused on **Embedded System and IOT**  
+- 🛠️ Skilled in **8051,PIC18,ARM 7,Raspberry Pi,ESP 32,Arduino,STM 32,C Language,Embedded C/C++,Python,RS-232(UART),SPI,CAN & RS 485(Mod Bus)**  
 - 🌐 Explore my work on [GitHub](https://github.com/ShewaleKunal)
 - 💬 Reach me at **kunalshewae140@gmail.com**  
+
+---
