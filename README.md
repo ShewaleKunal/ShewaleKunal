@@ -14,5 +14,5 @@
 - 🌱 **BE - EnTC Graduate** from **SPPU Pune**    
 - 🧠 Focused on **Data Analytics, Data Science, Artificial Intelligence, Machine Learning and Cyber Security**  
 - 🛠️ Skilled in **C++, Java, Python, SQL, PowerBI, Advance Excel, Hardware & Networking**  
-- 🌐 Explore my work on [GitHub](https://github.com/irhemant1)
+- 🌐 Explore my work on [GitHub](https://github.com/ShewaleKunal)
 - 💬 Reach me at **kunalshewae140@gmail.com**  
